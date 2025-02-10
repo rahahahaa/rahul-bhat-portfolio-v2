@@ -36,5 +36,5 @@ npm run build
 ## 🌎 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/rahulbhat06)
 - [Twitter](https://x.com/RAHAHAHAA?t=fcm0IUmkMlWy2i6d6EB4jw&s=09)
-- [Portfolio](https://https://rahul-bhat-portfolio-v2.netlify.app/)
+- [Portfolio](https://https://rahul-bhat-portfolio-v2.netlify.app)
 - [Email](mailto:rahulbhat7169@gmail.com)
